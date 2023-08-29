@@ -1,0 +1,28 @@
+body{
+  margin: 1px;
+  padding: 1px;
+  background-color: black;
+  
+}
+
+@font-face{
+  font-family: Helloween;
+  src: url(/assets/font/october_crow/October\ Crow.ttf) format('truetype');
+}
+
+.ariel{
+  font-family: Helloween;
+  font-size: 70px;
+  color: brown;
+}
+
+.hist{
+  font-family: 0;
+  color: orange;
+}
+
+.sla{
+  font-family: sla;
+  font-size: 10px;
+  color: #ffffff;
+}
